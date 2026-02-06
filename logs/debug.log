@@ -1,0 +1,5 @@
+[2026-02-06 20:56:10] DEBUG - This is a DEBUG log
+[2026-02-06 20:56:10] INFO - This is a INFO log
+[2026-02-06 20:56:10] WARNING - This is a WARNING log
+[2026-02-06 20:56:10] ERROR - This is a ERROR log
+[2026-02-06 20:56:10] CRITICAL - This is a CRITICAL log

@@ -1,0 +1,4 @@
+logger_name: Test_Logger
+log_dir: logs
+log_file_name: latest.log
+debug_log_file_name: debug.log
